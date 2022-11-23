@@ -1,4 +1,5 @@
 # Badger
+1.0.0
 
 ## What is Badger and what can it be used for ?
 - Badger is a little program which can be used to registrate in and out badging during your day at work.
