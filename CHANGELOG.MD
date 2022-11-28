@@ -1,7 +1,8 @@
 
 # Change Log
 All notable changes to this project will be documented in this file.
-
+## [1.3.0] - 2022-11-28
+- Replace .pyw file with .exe file
 
 ## [1.2.0] - 2022-11-23
 ### Added

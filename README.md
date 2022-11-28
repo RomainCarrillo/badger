@@ -11,13 +11,16 @@
 
 ## How to use it ?
 **You need to have Python installed on your machine**
-- Simply copy the badger.pyw file inside a directory. 
+- Simply copy the badger.exe file inside a directory. 
 - Each time you will click on it, a new badging will be recorded.
 - On the last click of the day, after the pm-departure badging has been added, the program will automatically compute the numbers of hours done during the day.
 
 - It is possible to manualy modify a badging (excepted for pm-departure). Just open the "badging.txt" file and do the correction to the the concerned badgings. **Be carrefull to strictly follow data formating, including spaces**
 
 ## Version history 
+### 1.3.0
+- Replace .pyw file with .exe file
+
 ### 1.2.0
 - Compute daily hours at the end of the day line,
 
